@@ -18,7 +18,7 @@ class Form {
 
   display(){
     image(bg,0,0,displayWidth, displayHeight);
-    this.title.html("Car Racing Game");
+    this.title.html("Super Car Racing Game");
     this.title.position(displayWidth/2 - 50, 0);
     this.title2.html("Made By Aditya Lal")
     this.title2.position(displayWidth/2-50,30)
